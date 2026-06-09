@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.css"],
+  "sourcesContent": ["*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\nhtml, body {\n  margin: 0;\n  padding: 0;\n  height: 100%;\n  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n  -webkit-font-smoothing: antialiased;\n  background: #f3f4f6;\n}\n\na {\n  color: #16a34a;\n  text-decoration: none;\n}\n\na:hover {\n  text-decoration: underline;\n}\n\n::-webkit-scrollbar {\n  width: 6px;\n  height: 6px;\n}\n\n::-webkit-scrollbar-track {\n  background: #f1f5f9;\n}\n\n::-webkit-scrollbar-thumb {\n  background: #cbd5e1;\n  border-radius: 3px;\n}\n\n::-webkit-scrollbar-thumb:hover {\n  background: #94a3b8;\n}\n"],
+  "mappings": ";AAAA;AACA,CAAC;AACD,CAAC;AACC,cAAY;AACd;AAEA;AAAM;AACJ,UAAQ;AACR,WAAS;AACT,UAAQ;AACR;AAAA,IAAa,UAAU;AAAA,IAAE,MAAM;AAAA,IAAE,MAAM;AAAA,IAAE,OAAO;AAAA,IAAE;AAClD,0BAAwB;AACxB,cAAY;AACd;AAEA;AACE,SAAO;AACP,mBAAiB;AACnB;AAEA,CAAC;AACC,mBAAiB;AACnB;AAEA;AACE,SAAO;AACP,UAAQ;AACV;AAEA;AACE,cAAY;AACd;AAEA;AACE,cAAY;AACZ,iBAAe;AACjB;AAEA,yBAAyB;AACvB,cAAY;AACd;",
+  "names": []
+}
