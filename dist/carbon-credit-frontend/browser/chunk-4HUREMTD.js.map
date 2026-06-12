@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/features/marketplace/marketplace.routes.ts"],
-  "sourcesContent": ["import { Routes } from '@angular/router';\n\nexport const marketplaceRoutes: Routes = [\n  {\n    path: '',\n    loadComponent: () =>\n      import('./components/marketplace/marketplace.component').then(\n        (m) => m.MarketplaceComponent\n      ),\n  },\n];\n"],
-  "mappings": ";;;AAEO,IAAM,oBAA4B;EACvC;IACE,MAAM;IACN,eAAe,MACb,OAAO,qBAAgD,EAAE,KACvD,CAAC,MAAM,EAAE,oBAAoB;;;",
-  "names": []
-}
